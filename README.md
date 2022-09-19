@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rakesh2991
-- 👀 I’m interested in python, php, django, larevel
+- 👀 I’m interested in python, php, django, larevel, html, css, javascrip
 - 🌱 I’m currently learning php anf laravel and REST API
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me youtube and compnay reqirement,
